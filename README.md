@@ -1,3 +1,8 @@
+# repo 설명
+
+- react default 설정 repo
+- test용
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
